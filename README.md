@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Richmond Constante
 
-<!--
-**rcconstante/rcconstante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student @ De La Salle University – Dasmariñas  
+🧠 Specializing in Intelligent Systems | 💻 Passionate about AI, ML, IoT, and Web Dev
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **TruthChain Social** – Decentralized social media platform using Algorand blockchain  
+- **SmartWater** – Flask-based ML system for water quality classification  
+- **StudySpace** – IoT-powered smart study area selector with environmental sensors  
+- **TypeSafe** – Spam classifier web app using NLP and Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I Use
+`Python` `JavaScript` `React` `Flask` `SQL` `Node.js` `IoT` `Machine Learning` `Computer Vision`
+
+## 📫 Let’s connect!
+🌐 [Portfolio](https://rconstante.netlify.app)  
+📧 r.constante.dev@gmail.com
+
