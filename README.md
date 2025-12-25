@@ -13,6 +13,6 @@
 `Python` `JavaScript` `React.js` `Java` `PostgreSQL` `Flask` `mySQL` `Node.js` `IoT` `Machine Learning` `Computer Vision`
 
 ## 📫 Let’s connect!
-🌐 [Portfolio](https://rconstante.netlify.app)  
+🌐 [Portfolio](https://rcconstante.dev)  
 📧 r.constante.dev@gmail.com
 
