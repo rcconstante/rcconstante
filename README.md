@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏼 Hi there! I'm Jester Lumacad 🇵🇭 <br> [@mrjxtr](https://mrjxtr.dev) | [@mrjxtr-dev](https://github.com/mrjxtr-dev) | [@OSSPH](https://ossph.org/)
+# 👋🏼 Hi there! I'm Richmond Constante 🇵🇭 <br> [@rcconstante](https:/rcconstante.dev) | [@rcconstante](https://github.com/rcconstante) | [@OSSPH](https://ossph.org/)
 
 <!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
 
@@ -8,7 +8,8 @@
 
 <!---
 
-I'm a freelancer with a background that spans diverse fields, including **Full-stack Software Development** (Current Focus), **Data Analytics**, **Data Science** (AI/ML), **Social Media Management**, **Music Production**, and **Video Editing**.
+I'm a freelancer full-stack developer focused on building real-world systems using **Python, JavaScript, React.js, Java, Flask, Node.js, PostgreSQL, MySQL, HTML, CSS, JS**.  
+I also work on projects involving **IoT, Machine Learning, and Computer Vision**, creating software that connects intelligent systems with practical applications.
 
 --->
 
