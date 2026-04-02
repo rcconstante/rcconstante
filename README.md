@@ -18,4 +18,4 @@
 
 
 ---
-Credits [mrjxtr](github.com/mrjxtr)
+Credits [mrjxtr](https://github.com/mrjxtr)
